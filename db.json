@@ -69,6 +69,12 @@
       "userName": "Ravi Bharti",
       "score": 3,
       "quizTitle": "Node.js Quiz"
+    },
+    {
+      "id": "bf8a",
+      "userName": "Ravi Bharti",
+      "score": 1,
+      "quizTitle": "CSS Quiz"
     }
   ],
   "quizzes": [
